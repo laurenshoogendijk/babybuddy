@@ -232,11 +232,11 @@ msgstr "Activiteiten"
 #: babybuddy/templates/babybuddy/nav-dropdown.html:235
 #: reports/graphs/diaperchange_lifetimes.py:27
 msgid "Changes"
-msgstr "Aanpassingen"
+msgstr "Verschoningen"
 
 #: babybuddy/templates/babybuddy/nav-dropdown.html:241
 msgid "Change"
-msgstr "Aanpassen"
+msgstr "Verschonen"
 
 #: babybuddy/templates/babybuddy/nav-dropdown.html:247
 #: babybuddy/templates/babybuddy/welcome.html:37 core/models.py:333
